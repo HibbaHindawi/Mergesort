@@ -1,0 +1,15 @@
+/Users/hibba/Documents/GitHub/Mergesort/bin/Debug/net5.0/Mergesort.deps.json
+/Users/hibba/Documents/GitHub/Mergesort/bin/Debug/net5.0/Mergesort.runtimeconfig.json
+/Users/hibba/Documents/GitHub/Mergesort/bin/Debug/net5.0/Mergesort.runtimeconfig.dev.json
+/Users/hibba/Documents/GitHub/Mergesort/bin/Debug/net5.0/Mergesort.dll
+/Users/hibba/Documents/GitHub/Mergesort/bin/Debug/net5.0/ref/Mergesort.dll
+/Users/hibba/Documents/GitHub/Mergesort/bin/Debug/net5.0/Mergesort.pdb
+/Users/hibba/Documents/GitHub/Mergesort/obj/Debug/net5.0/Mergesort.csproj.AssemblyReference.cache
+/Users/hibba/Documents/GitHub/Mergesort/obj/Debug/net5.0/Mergesort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hibba/Documents/GitHub/Mergesort/obj/Debug/net5.0/Mergesort.AssemblyInfoInputs.cache
+/Users/hibba/Documents/GitHub/Mergesort/obj/Debug/net5.0/Mergesort.AssemblyInfo.cs
+/Users/hibba/Documents/GitHub/Mergesort/obj/Debug/net5.0/Mergesort.csproj.CoreCompileInputs.cache
+/Users/hibba/Documents/GitHub/Mergesort/obj/Debug/net5.0/Mergesort.dll
+/Users/hibba/Documents/GitHub/Mergesort/obj/Debug/net5.0/ref/Mergesort.dll
+/Users/hibba/Documents/GitHub/Mergesort/obj/Debug/net5.0/Mergesort.pdb
+/Users/hibba/Documents/GitHub/Mergesort/obj/Debug/net5.0/Mergesort.genruntimeconfig.cache
