@@ -55,8 +55,7 @@ namespace Mergesort
                 }
             Console.WriteLine();
         }
-      public static void Main(String[] args)
-        {
+        public static void Main(String[] args){
             Stopwatch watch = new Stopwatch();
             watch.Start();
             int[] arr = new int[1000];
